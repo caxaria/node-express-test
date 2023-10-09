@@ -1,3 +1,4 @@
 {
-  "ignore": ["**/{bin,node_modules}/**"]
+  "ignore": ["**/{bin,node_modules}/**"],
+  "workOnAllIssues": false
 }
